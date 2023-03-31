@@ -1,6 +1,6 @@
 Name:		texlive-numerica
 Version:	61283
-Release:	1
+Release:	2
 Summary:	Numerically evaluate mathematical expressions in LaTeX form
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numerica
