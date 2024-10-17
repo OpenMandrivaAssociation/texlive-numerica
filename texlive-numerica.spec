@@ -3,7 +3,7 @@ Version:	68021
 Release:	1
 Summary:	Numerically evaluate mathematical expressions in LaTeX form
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numerica
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/numerica
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numerica.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numerica.doc.r%{version}.tar.xz
